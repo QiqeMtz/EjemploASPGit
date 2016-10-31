@@ -9,6 +9,12 @@ namespace WebApplication1
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
+            //Comentario de prueba
+        }
+
+        public void metodoX()
+        {
+
         }
     }
 }
